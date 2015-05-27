@@ -1,0 +1,4 @@
+Will eventually move away from this repo
+
+Bring the xmls to your webstorm installation by executing
+  cp *.xml ~/Library/Preferences/WebStorm9/filetypes/
